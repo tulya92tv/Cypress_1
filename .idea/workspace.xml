@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -25,7 +28,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1Ood0TWIrTDuPRFonB9kJtvYXyA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/all-tests" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
@@ -63,11 +68,22 @@
       <updated>1564647659669</updated>
       <workItem from="1564647661743" duration="3623000" />
       <workItem from="1564652413595" duration="15929000" />
-      <workItem from="1564992347702" duration="29188000" />
+      <workItem from="1564992347702" duration="29813000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
